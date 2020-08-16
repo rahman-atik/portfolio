@@ -1,0 +1,16 @@
+body {
+    background-color: #E5E4E2;
+  }
+  h1 {
+    color: blue;
+  }
+  h3 {
+    color: blue;
+  }
+  p {
+    color: red;
+  }
+  .responsive {
+    width: 100%;
+    height: auto;
+  }
