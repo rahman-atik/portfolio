@@ -510,30 +510,30 @@ table {
   background-color: #fbfbfb;
 }
 .hero h1 {
-  font-size: 120px;
-  letter-spacing: -8px;
+  font-size: 90px;
+  letter-spacing: 5px;
   margin: 0;
   font-weight: 600;
   line-height: 95px;
   text-transform: uppercase;
 }
 .hero h1 span {
-  color: #a1a9b0;
+  color: #5d666e;
   /* display:inline-block; */
 }
 .hero h3 {
-  font-size: 20px;
+  font-size: 25px;
   margin: 0;
   padding: 0;
-  opacity: 0.5;
+  opacity: 0.7;
   color: #e04343;
-  letter-spacing: 18px;
+  letter-spacing: 3px;
   line-height: 50px;
   text-transform: uppercase;
 }
 .hero p {
   letter-spacing: 1px;
-  color: #fff;
+  color: rgb(255, 255, 255);
   font-size: 15px;
 }
 /* Boucing Arrow Animation */
@@ -611,13 +611,15 @@ table {
 }
 /* ==========================================================================Intro========================================================================== */
 .intro p {
-  margin: 50px 0 0;
+  margin: 5px 0 0;
+  font-size: 15px;
+  font-style: italic;
 }
 h1.arrow {
-  font-size: 16px;
+  font-size: 30px;
   text-transform: uppercase;
   color: #353535;
-  letter-spacing: 4px;
+  letter-spacing: 3px;
   background: url("../img/h1-bg.png") no-repeat center bottom;
   padding-bottom: 30px;
   font-weight: bold;
@@ -639,7 +641,7 @@ h1.arrow span {
   font-display: block;
 }
 .color-bg {
-  background: #791818;
+  background: #6e4141;
 }
 
 .color-bg a {
